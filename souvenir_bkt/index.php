@@ -38,7 +38,7 @@ require("../connect.php");
 
 <script type="text/javascript">
 
-var server = "http://localhost/https://webgissouvenir.azurewebsites.net/souvenir_bkt/";
+var server = "https://webgissouvenir.azurewebsites.net/souvenir_bkt/";
 var map;
 var markersDua = [];
 var koordinat = 'null'
