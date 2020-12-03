@@ -38,7 +38,9 @@ require("../connect.php");
 
 <script type="text/javascript">
 
+
 var server = "https://webgissouvenir.herokuapp.com/souvenir_bkt/";
+
 var map;
 var markersDua = [];
 var koordinat = 'null'
